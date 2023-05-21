@@ -1,19 +1,35 @@
-# Hello there
+# 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Hi%2C+I'm+Shawn+;I'm+from+Indonesia;I+am+a+Web+Developer;Still+trying+to+understand+Python;)](https://git.io/typing-svg)
+A student learning HTML, JavaScript, CSS and Python
 
-## Tool
+## 🌐 Socials:
 
-[![Tool](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/978118118574547024) 
 
-## Language
+# 💻 Tech Stack:
 
-[![Language](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## Learning
+# 📊 GitHub Stats:
 
-[![Learning](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+![](https://github-readme-stats.vercel.app/api?username=shawnharman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=shawnharman&theme=radical&hide_border=false)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnharman&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnharman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=shawnharman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=shawnharman&icon=0&color=0)](https://visitcount.itsvg.in)
