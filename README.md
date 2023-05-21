@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello there
 
-<!--
-**shawnharman/shawnharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Hi%2C+I'm+Shawn+;I'm+from+Indonesia;I+am+a+Web+Developer;Still+trying+to+understand+Python;)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## Tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tool](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
+
+## Language
+
+[![Language](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+
+## Learning
+
+[![Learning](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnharman&show_icons=true&theme=cobalt)
