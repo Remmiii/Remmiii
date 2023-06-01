@@ -12,7 +12,7 @@ A student learning HTML, JavaScript, CSS and Python
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Remmiii&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Zyneeeeeeeee&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Remmiii&theme=radical&hide_border=false)<br/>
 
